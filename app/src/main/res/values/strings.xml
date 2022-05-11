@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Conversión</string>
+    <string name="rb1">Fahrenheit</string>
+    <string name="rb2">Celcius</string>
+    <string name="Etiqueta1">Grados:</string>
+    <string name="Etiqueta2">Convetir a:</string>
+    <string name="boton">Convertir</string>
+    <string name="titulo">Convercion de grados Fahrehit a Celcius y viseversa</string>
+    <string name="resultado">Resultado</string>
+</resources>
